@@ -1,0 +1,21 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "Lista de tarefas baseados no Microsoft To Do",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "html3,ccs5,js, node"
+  },
+  "keywords": [
+    "html3",
+    "ccs5",
+    "js",
+    "node"
+  ],
+  "author": "Natalia B Mojano",
+  "license": "MIT"
+}
